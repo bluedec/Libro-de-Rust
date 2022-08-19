@@ -176,7 +176,7 @@ pre {
     background-color: var(--background-color1);
     padding: 0; 
     border-bottom: 1px hsla(210, 25%, 13%, 1) solid;
-    right: 0px;
+    right: 1px;
     position: fixed;
     z-index: 0;
 }
